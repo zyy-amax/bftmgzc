@@ -45,7 +45,7 @@ def get_data_and_notify():
 **💡 专家建议**：{note}
 
 **📅 数据日期**：{latest['date'].strftime('%Y-%m-%d')}
-[点击查看实时大盘详情](https://fxvsnsvpgyczkkh2bexzs2.streamlit.app/)
+[点击查看实时大盘详情](https://bftmgzc.streamlit.app/)
         """
 
         # 4. 发送微信 (Server酱)
